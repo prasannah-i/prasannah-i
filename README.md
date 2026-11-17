@@ -1,5 +1,3 @@
-About Me
-
 # Hi, I'm Lakshmi Prasanna I 👋
 
 ### Aspiring Data Engineer | AWS | Python | SQL | PySpark
