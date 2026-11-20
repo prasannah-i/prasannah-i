@@ -59,34 +59,34 @@ Developing an AWS-based financial data processing pipeline.
 ### NorthCap Consulting
 **Finance Data Analyst | February 2024 – April 2024**
 
-• Managed end-to-end financial transactions and tax compliance (TDS, GST) using Zoho
+- Managed end-to-end financial transactions and tax compliance (TDS, GST) using Zoho
 Books.
-• Orchestrated the automated extraction of raw financial records into AWS S3 to establish
+- Orchestrated the automated extraction of raw financial records into AWS S3 to establish
 a centralized data lake for audit analytics.
-• Developed PySpark scripts on AWS Glue to clean and transform large transaction
+- Developed PySpark scripts on AWS Glue to clean and transform large transaction
 records, reducing manual reconciliation time.
-• Utilized AWS Athena to run ad-hoc SQL queries directly on S3 data lakes to provide
+- Utilized AWS Athena to run ad-hoc SQL queries directly on S3 data lakes to provide
 leadership with real-time visibility into aged account payables and receivables.
-• Maintained version control for all transformation scripts and SQL queries using Git.
+- Maintained version control for all transformation scripts and SQL queries using Git.
 
 ### Kapalli Nomini & Associates
 **Finance Data Analyst  | April 2022 – February 2024**
 
-• Built Python scripts to automate the tracking of "Aged Open Line Items," replacing
+- Built Python scripts to automate the tracking of "Aged Open Line Items," replacing
 manual spreadsheet follow-ups with an automated notification system.
-• Developed complex SQL queries for monthly journals and accruals to ensure data
+- Developed complex SQL queries for monthly journals and accruals to ensure data
 consistency across global ledgers.
-• Developed reusable Python code to automatically compare bank statements against
+- Developed reusable Python code to automatically compare bank statements against
 internal books for variance analysis across multiple currencies.
 
 ### Rainbow Polymer Industries
 **Finance Data Analyst  | April 2020 – March 2022**
 
-• Operated accounting software to record and manage high-volume sales, purchase, and
+- Operated accounting software to record and manage high-volume sales, purchase, and
 bank voucher data.
-• Utilized SQL to extract trial balances and transaction histories, eliminating manual data
+- Utilized SQL to extract trial balances and transaction histories, eliminating manual data
 entry errors in month-end reporting.
-• Standardized data ingestion formats for bank statement imports, ensuring faster and
+- Standardized data ingestion formats for bank statement imports, ensuring faster and
 more accurate cash reconciliations.
 
 
